@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTusk", "TestTusk\TestTusk.csproj", "{686BA144-1B63-42FE-8EB1-73958E5C5D4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask", "TestTask\TestTask.csproj", "{686BA144-1B63-42FE-8EB1-73958E5C5D4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareTest", "SquareTest\SquareTest.csproj", "{DF3D096C-FACE-4D7A-9DF5-22EBEB34D05C}"
 EndProject

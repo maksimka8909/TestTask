@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj": {
-                "projectPath": "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj"
+              "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj": {
+                "projectPath": "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj": {
+    "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj",
-        "projectName": "TestTusk",
-        "projectPath": "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj",
+        "projectUniqueName": "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj",
+        "projectName": "TestTask",
+        "projectPath": "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj",
         "packagesPath": "C:\\Users\\Fobos\\.nuget\\packages\\",
-        "outputPath": "F:\\RiderProjects\\TestTusk\\TestTusk\\obj\\",
+        "outputPath": "F:\\RiderProjects\\TestTusk\\TestTask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fobos\\AppData\\Roaming\\NuGet\\NuGet.Config"

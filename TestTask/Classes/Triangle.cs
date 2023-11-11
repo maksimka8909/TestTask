@@ -1,6 +1,6 @@
-﻿using TestTusk.Interfaces;
+﻿using TestTask.Interfaces;
 
-namespace TestTusk.Classes;
+namespace TestTask.Classes;
 
 public class Triangle : IShape
 {

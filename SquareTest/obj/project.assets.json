@@ -1713,14 +1713,14 @@
           "build/netcoreapp3.1/xunit.runner.visualstudio.props": {}
         }
       },
-      "TestTusk/1.0.0": {
+      "TestTask/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
-          "bin/placeholder/TestTusk.dll": {}
+          "bin/placeholder/TestTask.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TestTusk.dll": {}
+          "bin/placeholder/TestTask.dll": {}
         }
       }
     }
@@ -5517,16 +5517,16 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
-    "TestTusk/1.0.0": {
+    "TestTask/1.0.0": {
       "type": "project",
-      "path": "../TestTusk/TestTusk.csproj",
-      "msbuildProject": "../TestTusk/TestTusk.csproj"
+      "path": "../TestTask/TestTask.csproj",
+      "msbuildProject": "../TestTask/TestTask.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
       "Microsoft.NET.Test.Sdk >= 17.5.0",
-      "TestTusk >= 1.0.0",
+      "TestTask >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5557,8 +5557,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj": {
-              "projectPath": "F:\\RiderProjects\\TestTusk\\TestTusk\\TestTusk.csproj"
+            "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj": {
+              "projectPath": "F:\\RiderProjects\\TestTusk\\TestTask\\TestTask.csproj"
             }
           }
         }
