@@ -1,0 +1,12 @@
+F:\RiderProjects\TestTusk\TestTusk\bin\Debug\net7.0\TestTusk.deps.json
+F:\RiderProjects\TestTusk\TestTusk\bin\Debug\net7.0\TestTusk.dll
+F:\RiderProjects\TestTusk\TestTusk\bin\Debug\net7.0\TestTusk.pdb
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.csproj.AssemblyReference.cache
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.GeneratedMSBuildEditorConfig.editorconfig
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.AssemblyInfoInputs.cache
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.AssemblyInfo.cs
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.csproj.CoreCompileInputs.cache
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.dll
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\refint\TestTusk.dll
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\TestTusk.pdb
+F:\RiderProjects\TestTusk\TestTusk\obj\Debug\net7.0\ref\TestTusk.dll
